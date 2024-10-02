@@ -1,9 +1,9 @@
 # Hi there 👋
   
-# 🌱 I’m currently learning C++
+## 🌱 I’m currently learning C++
 
-# 📫 How to reach me: code.dheerajgudipati@gmail.com
-# 👨‍💻 All my projects are available at: https://github.com/gudipatidheeraj
+## 📫 How to reach me: code.dheerajgudipati@gmail.com
+## 👨‍💻 All my projects are available at: https://github.com/gudipatidheeraj
 <!--
 **gudipatidheeraj/gudipatidheeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
