@@ -10,7 +10,10 @@
 ###
 ###
 ###
-### [![HackerRank](https://raw.githubusercontent.com/aleen42/badges/master/src/hackerrank.svg)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
+### <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+  <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/hackerrank.svg" width="40" height="40" alt="HackerRank" />
+</a>
+
 
 
 <!--
