@@ -8,7 +8,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" width="40" height="40" alt="HackerRank"/>
 </a>
 
-<a href="https://www.linkedin.com/in/gudipatidheeraj" target="_blank">
+<a href="https://www.linkedin.com/in/dheerajgudipati" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
 </a>
 
