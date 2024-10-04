@@ -6,6 +6,12 @@
 
 
 ### [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gudipatidheeraj)](https://github.com/gudipatidheeraj/github-readme-stats)
+
+###
+###
+###
+### [![HackerRank](https://raw.githubusercontent.com/aleen42/badges/master/src/hackerrank.svg)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
+ 
 <!--
 **gudipatidheeraj/gudipatidheeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
