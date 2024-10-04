@@ -10,7 +10,10 @@
 ###
 ###
 ###
-### [![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg)](https://www.hackerrank.com/john_doe)
+### <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" width="40" height="40" alt="HackerRank"/>
+</a>
+
 
 
 
