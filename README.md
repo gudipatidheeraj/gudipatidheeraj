@@ -7,9 +7,6 @@
 
 ### [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gudipatidheeraj)](https://github.com/gudipatidheeraj/github-readme-stats)
 
-###
-###
-### [![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg)](https://www.hackerrank.com/gudipatidheeraj)
 <a href="https://www.hackerrank.com/gudipatidheeraj" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" width="40" height="40" alt="HackerRank"/>
 </a>
