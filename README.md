@@ -10,7 +10,8 @@
 ###
 ###
 ###
-### [![HackerRank](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/HackerRank_Icon-1000px.png/768px-HackerRank_Icon-1000px.png)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
+### [![HackerRank](https://cdn.iconscout.com/icon/free/png-256/hackerrank-3628885-3030080.png)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
+
 
 
 
