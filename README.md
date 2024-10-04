@@ -10,7 +10,8 @@
 ###
 ###
 ###
-### [![HackerRank](https://cdn.iconscout.com/icon/free/png-256/hackerrank-3628885-3030080.png)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
+### [![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg)](https://www.hackerrank.com/john_doe)
+
 
 
 
