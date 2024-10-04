@@ -10,9 +10,8 @@
 ###
 ###
 ###
-### <a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
-###    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
-### </a>
+### [![HackerRank](https://cdn.worldvectorlogo.com/logos/hackerrank.svg)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
+
 <!--
 **gudipatidheeraj/gudipatidheeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
