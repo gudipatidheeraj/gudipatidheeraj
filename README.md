@@ -6,7 +6,7 @@
 
 
 <a href="https://www.hackerrank.com/gudipatidheeraj" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg
 " width="40" height="40" alt="HackerRank"/>
 </a>
 
