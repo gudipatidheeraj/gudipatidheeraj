@@ -1,7 +1,7 @@
   
-#### 🌱 I’m currently learning C++
+#### 🌱 I’m currently learning System Design, Java
 #### 👨‍💻 All my projects are available at: https://github.com/gudipatidheeraj
-#### 📫 How to reach me: code.dheerajgudipati@gmail.com
+#### 📫 How to reach me: dheeraj.workstudio@gmail.com
 
 
 <a href="https://www.hackerrank.com/gudipatidheeraj" target="_blank">
