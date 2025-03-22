@@ -18,7 +18,7 @@
 
 
 
-### [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gudipatidheeraj)](https://github.com/gudipatidheeraj/github-readme-stats)
+### [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gudipatidheeraj&langs_count=10)](https://github.com/gudipatidheeraj/github-readme-stats)
 
 
 
