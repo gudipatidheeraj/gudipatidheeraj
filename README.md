@@ -1,5 +1,5 @@
   
-#### 🌱 I’m currently learning System Design, Java
+#### 🌱 I’m currently learning System Design, Java and Working on LeetCode Problems
 #### 👨‍💻 All my projects are available at: https://github.com/gudipatidheeraj
 #### 📫 How to reach me: dheeraj.workstudio@gmail.com
 
